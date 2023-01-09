@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    size: 10px;
+}
