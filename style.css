@@ -17,3 +17,11 @@ section {
     flex-direction: column;
     size: 10px;
 }
+
+header {
+    margin: 20px;
+}
+
+footer {
+    margin: 20px;
+}
